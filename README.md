@@ -63,19 +63,19 @@ Pair `$html-drop` with `$forward-port` for a shareable live preview. Use `$playw
 
 Plugins are listed as capabilities, not expanded into every skill they bundle.
 
-- [Browser](https://github.com/openai/openai/tree/master/lib/browser_use/plugin): Controls Codex's in-app browser for local navigation, interaction, screenshots, and testing.
-- [Chrome](https://github.com/openai/openai/tree/master/lib/browser_use/plugin): Controls existing Chrome tabs and signed-in browser state when that context matters.
-- [Computer Use](https://openai.com/): Controls local macOS applications when no narrower tool fits.
-- [Sites](https://openai.com/): Builds and publishes websites through Codex Sites.
-- [Visualize](https://openai.com/): Creates interactive charts, diagrams, simulations, maps, and UI previews in conversation.
+- [Browser](https://learn.chatgpt.com/docs/plugins): Controls Codex's in-app browser for local navigation, interaction, screenshots, and testing.
+- [Chrome](https://learn.chatgpt.com/docs/plugins): Controls existing Chrome tabs and signed-in browser state when that context matters.
+- [Computer Use](https://learn.chatgpt.com/docs/plugins): Controls local macOS applications when no narrower tool fits.
+- [Sites](https://learn.chatgpt.com/docs/plugins): Builds and publishes websites through Codex Sites.
+- [Visualize](https://learn.chatgpt.com/docs/plugins): Creates interactive charts, diagrams, simulations, maps, and UI previews in conversation.
 - [Cloudflare](https://github.com/openai/plugins): Adds Cloudflare Workers, Wrangler, Agents SDK, documentation, and API access.
-- [Plugin Management](https://github.com/openai/openai/tree/master/chatgpt/oai-maintained-plugins/plugins/plugin-management): Finds plugins and manages their connections, permissions, and dependencies.
-- [Product Design](https://github.com/openai/openai/tree/master/chatgpt/oai-maintained-plugins/plugins/product-design): Handles product exploration, UX audits, URL and screenshot implementation, and prototype validation.
-- [Documents](https://openai.com/): Creates and edits Word and Google Docs-targeted documents with rendered verification.
-- [PDF](https://openai.com/): Reads, creates, renders, and verifies PDF documents.
-- [Presentations](https://openai.com/): Creates, edits, renders, and exports PowerPoint and Google Slides-ready decks.
-- [Spreadsheets](https://openai.com/): Creates, analyzes, renders, and exports Excel and Google Sheets-ready workbooks.
-- [Template Creator](https://openai.com/): Turns existing files, links, messages, and generated artifacts into reusable personal templates.
+- [Plugin Management](https://learn.chatgpt.com/docs/plugins): Finds plugins and manages their connections, permissions, and dependencies.
+- [Product Design](https://learn.chatgpt.com/docs/plugins): Handles product exploration, UX audits, URL and screenshot implementation, and prototype validation.
+- [Documents](https://learn.chatgpt.com/docs/plugins): Creates and edits Word and Google Docs-targeted documents with rendered verification.
+- [PDF](https://learn.chatgpt.com/docs/plugins): Reads, creates, renders, and verifies PDF documents.
+- [Presentations](https://learn.chatgpt.com/docs/plugins): Creates, edits, renders, and exports PowerPoint and Google Slides-ready decks.
+- [Spreadsheets](https://learn.chatgpt.com/docs/plugins): Creates, analyzes, renders, and exports Excel and Google Sheets-ready workbooks.
+- [Template Creator](https://learn.chatgpt.com/docs/plugins): Turns existing files, links, messages, and generated artifacts into reusable personal templates.
 - [Ponytail](https://github.com/DietrichGebert/ponytail): Pushes coding work toward the smallest solution that meets the request.
 
 ## Maintenance
