@@ -6,24 +6,24 @@ A map to record the source, usage and useful pairings of the Codex skills I use.
 
 ### Easier Communication with Agents
 
-- [$unslop](https://github.com/MohamedAbdallah-14/unslop/tree/main/skills/unslop): Makes agent responses much, much easier to read.
-- [$bro](https://github.com/dmmulroy/skills/tree/main/skills/bro): Let agent restate the last message concisely and clearly.
+- [$unslop](https://github.com/cursor/plugins/tree/main/pstack/skills/unslop): Makes agent responses much, much easier to read.
+- [$bro](https://github.com/cursor/plugins/tree/main/pstack/skills/bro): Let agent restate the last message concisely and clearly.
 - [$html-drop](https://github.com/sago-cream/skills/tree/main/html-drop): Creates a HTML artifact for complicated concepts, pair with `$forward-port` to view on mobile easily.
 - [$forward-port](https://github.com/sago-cream/skills/tree/main/forward-port): Forward port through a Cloudflare Quick Tunnel, so we can work on frontend stuff when pooping.
 
 ### Better Planning
 
 - [$grill-with-docs](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs): Help you decide all the details before implementing while maintaining ADRs and glossary.
-- [$grilling](https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling): Called by `$grill-with-docs`.
+- [$grilling](https://github.com/mattpocock/skills/tree/86cba45f4244b2545112d13e77ba82eb2bfad325/skills/productivity/grilling): Called by `$grill-with-docs`.
 
 ### Better Design
 
-- [$design](https://github.com/sago-cream/skills): Decide which skill(s) below do we need and call them, no mental load at all, yay.
-- [$emil-design-eng](https://github.com/emilkowalski/skills/tree/main/skills/emil-design-eng): Guides UI motion, component behavior, and interaction polish using Emil Kowalski's design-engineering principles.
+- [$design](https://github.com/sago-cream/skills/tree/main/design): Decide which skill(s) below do we need and call them, no mental load at all, yay.
+- [$emil-design-eng](https://github.com/emilkowalski/skills/tree/ecf66bbd1fb33c25332b6b0e454d08049978284c/skills/emil-design-eng): Guides UI motion, component behavior, and interaction polish using Emil Kowalski's design-engineering principles.
 - [$animation-vocabulary](https://github.com/emilkowalski/skills/tree/main/skills/animation-vocabulary): Finds the precise name for a motion effect described in everyday language.
-- [$review-animations](https://github.com/emilkowalski/skills/tree/main/skills/review-animations): Reviews animation and motion code against a strict craft and performance bar.
-- [$make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better/tree/main/skills/make-interfaces-feel-better): Covers typography, surfaces, alignment, hit areas, and common interface-polish details.
-- [$unslop-css](https://github.com/sago-cream/skills): Keeps styling changes on project tokens and a 4px grid, then checks the cascade for unintended overrides.
+- [$review-animations](https://github.com/emilkowalski/skills/tree/47226d9d54d48b49f081193d02334bf0405bab4e/skills/review-animations): Reviews animation and motion code against a strict craft and performance bar.
+- [$make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better/tree/384562064fcdd99778fcbafd8729626fe6aab02f/skills/make-interfaces-feel-better): Covers typography, surfaces, alignment, hit areas, and common interface-polish details.
+- [$unslop-css](https://github.com/sago-cream/skills/tree/main/unslop-css): Keeps styling changes on project tokens and a 4px grid, then checks the cascade for unintended overrides.
 - [$font-cut](https://github.com/sago-cream/skills/tree/main/font-cut): Proposes a cleaner type system so Sol doesn't add 20 variants to your product :)
 
 ### Better Codebase Architecture
