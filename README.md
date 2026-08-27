@@ -31,6 +31,7 @@ A map to record the source, usage and useful pairings of the Codex skills I use.
 - [$codebase-design](https://github.com/mattpocock/skills/tree/main/skills/engineering/codebase-design): Provides a shared vocabulary for designing deep modules, narrow interfaces, and useful seams.
 - [$domain-modeling](https://github.com/mattpocock/skills/tree/main/skills/engineering/domain-modeling): Sharpens project terminology and records it in context documents or ADRs.
 - [$improve-codebase-architecture](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture): Finds module-deepening opportunities, presents them visually, and grills the selected change.
+- [$improve-codebase-layout](https://github.com/sago-cream/skills/tree/main/improve-codebase-layout): Rearranges files and folders for newcomer navigation without redesigning modules.
 - [Ponytail](https://github.com/DietrichGebert/ponytail) (Codex plugin): Pushes coding work toward the smallest solution that meets the request.
 
 ### Easier Credential Setup
