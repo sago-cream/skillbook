@@ -11,6 +11,10 @@ A map to record the source, usage and useful pairings of the Codex skills I use.
 - [$html-drop](https://github.com/sago-cream/skills/tree/main/html-drop): Creates a HTML artifact for complicated concepts, pair with `$forward-port` to view on mobile easily.
 - [$forward-port](https://github.com/sago-cream/skills/tree/main/forward-port): Forward port through a Cloudflare Quick Tunnel, so we can work on frontend stuff when pooping.
 
+### Sharing Prototypes
+
+- [$sago-share](https://github.com/sago-cream/skills/tree/main/sago-share): Publishes a local HTML file or static prototype to `share.hsichen.dev`.
+
 ### Better Planning
 
 - [$grill-with-docs](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs): Help you decide all the details before implementing while maintaining ADRs and glossary.
