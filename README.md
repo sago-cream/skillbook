@@ -7,6 +7,7 @@ A map to record the source, usage and useful pairings of the Codex skills I use.
 ### Easier Communication with Agents
 
 - [$unslop](https://github.com/cursor/plugins/tree/main/pstack/skills/unslop): Makes agent responses much, much easier to read.
+- [$chill](https://github.com/sago-cream/skills/tree/main/chill): Stops agents from documenting problems that never reached upstream.
 - [$bro](https://github.com/cursor/plugins/tree/main/pstack/skills/bro): Let agent restate the last message concisely and clearly.
 - [$html-drop](https://github.com/sago-cream/skills/tree/main/html-drop): Creates a HTML artifact for complicated concepts, pair with `$forward-port` to view on mobile easily.
 - [$forward-port](https://github.com/sago-cream/skills/tree/main/forward-port): Forward port through a Cloudflare Quick Tunnel, so we can work on frontend stuff when pooping.
