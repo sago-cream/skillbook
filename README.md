@@ -1,12 +1,15 @@
 # Skillbook
 
-A map to record the source, usage and useful pairings of the Codex skills I use.
+Instructions and skills I add to my agents.
+
+## Agent Instructions
+
+- [AGENTS.md](https://github.com/sago-cream/agents.md/blob/main/AGENTS.md): So Sol behaves.
 
 ## skills
 
 ### Easier Communication with Agents
 
-- [$unslop](https://github.com/cursor/plugins/tree/main/pstack/skills/unslop): Makes agent responses much, much easier to read.
 - [$chill](https://github.com/sago-cream/skills/tree/main/chill): Stops agents from documenting problems that never reached upstream.
 - [$bro](https://github.com/cursor/plugins/tree/main/pstack/skills/bro): Let agent restate the last message concisely and clearly.
 - [$html-drop](https://github.com/sago-cream/skills/tree/main/html-drop): Creates a HTML artifact for complicated concepts, pair with `$forward-port` to view on mobile easily.
@@ -37,7 +40,6 @@ A map to record the source, usage and useful pairings of the Codex skills I use.
 - [$domain-modeling](https://github.com/mattpocock/skills/tree/main/skills/engineering/domain-modeling): Sharpens project terminology and records it in context documents or ADRs.
 - [$improve-codebase-architecture](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture): Finds module-deepening opportunities, presents them visually, and grills the selected change.
 - [$improve-codebase-layout](https://github.com/sago-cream/skills/tree/main/improve-codebase-layout): Rearranges files and folders for newcomer navigation without redesigning modules.
-- [Ponytail](https://github.com/DietrichGebert/ponytail) (Codex plugin): Pushes coding work toward the smallest solution that meets the request.
 
 ### Easier Credential Setup
 - [$wizard](https://github.com/mattpocock/skills/tree/main/skills/engineering/wizard): Generates an interactive Bash guide for setup steps that only a person can perform.
