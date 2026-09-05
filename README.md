@@ -1,10 +1,10 @@
 # Skillbook
 
-A map to record the source, usage and useful pairings of the Codex skills I use.
+Instructions and skills I add to my agents.
 
 ## Agent Instructions
 
-- [AGENTS.md repository](https://github.com/sago-cream/agents.md) · [AGENTS.md](https://github.com/sago-cream/agents.md/blob/main/AGENTS.md): So 5.6 Sol behaves.
+- [AGENTS.md](https://github.com/sago-cream/agents.md/blob/main/AGENTS.md): So Sol behaves.
 
 ## skills
 
