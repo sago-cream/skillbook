@@ -20,17 +20,15 @@ Instructions and skills I add to my agents.
 ### Better Design
 
 - [$design](https://github.com/sago-cream/skills/tree/main/design): Decide which skill(s) below do we need and call them, no mental load at all, yay.
-- [$emil-design-eng](https://github.com/emilkowalski/skills/tree/main/skills/emil-design-eng): Guides UI motion, component behavior, and interaction polish using Emil Kowalski's design-engineering principles.
+- [$ui-polish](https://github.com/sago-cream/skills/tree/main/ui-polish): Condenses Emil Kowalski’s and Jakub Krehel’s guidance on interface details and motion.
 - [$animation-vocabulary](https://github.com/emilkowalski/skills/tree/main/skills/animation-vocabulary): Finds the precise name for a motion effect described in everyday language.
 - [$review-animations](https://github.com/emilkowalski/skills/tree/main/skills/review-animations): Reviews animation and motion code against a strict craft and performance bar.
-- [$make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better/tree/main/skills/make-interfaces-feel-better): Covers typography, surfaces, alignment, hit areas, and common interface-polish details.
 - [$unslop-css](https://github.com/sago-cream/skills/tree/main/unslop-css): Keeps styling changes on project tokens and a 4px grid, then checks the cascade for unintended overrides.
 - [$font-cut](https://github.com/sago-cream/skills/tree/main/font-cut): Proposes a cleaner type system so Sol doesn't add 20 variants to your product :)
 
 ### Better Codebase Architecture
 
-- [$codebase-design](https://github.com/mattpocock/skills/tree/main/skills/engineering/codebase-design): Provides a shared vocabulary for designing deep modules, narrow interfaces, and useful seams.
-- [$improve-codebase-architecture](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture): Finds module-deepening opportunities, presents them visually, and grills the selected change.
+- [$improve-codebase-architecture](https://github.com/sago-cream/skills/tree/main/improve-codebase-architecture): Combines Matt Pocock’s deep-module guidance and visual architecture review without the grilling loop.
 - [$improve-codebase-layout](https://github.com/sago-cream/skills/tree/main/improve-codebase-layout): Rearranges files and folders for newcomer navigation without redesigning modules.
 
 ## Quicker Git Workflow
